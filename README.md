@@ -2,4 +2,7 @@
 
 
 사용된 모델
-Doc2Vec + Word2Vec
+Title Extraction + Doc2Vec + Word2Vec
+
+Baseline
+Frequency by tag or song, Popularity
